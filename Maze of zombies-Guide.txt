@@ -1,0 +1,2 @@
+This is a game in which you are trying to be a live by trying to choose the correct door
+inorder to run away from the Zombie.
