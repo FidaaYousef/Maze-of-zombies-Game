@@ -1,4 +1,4 @@
-// create table 3X3;
+// create table 3X3; on the page 
  			var table ='';
 			var rows = 3;
 			var col= 3;
